@@ -1,0 +1,7 @@
+syntax = "proto3";
+package myservice;
+service MyService {
+  rpc GetItem (GetItemRequest) returns (GetItemResponse);
+}
+message GetItemRequest { string id = 1; }
+message GetItemResponse { string id = 1; string name = 2; }
