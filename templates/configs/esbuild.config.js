@@ -1,0 +1,2 @@
+// esbuild configuration
+module.exports = {}
