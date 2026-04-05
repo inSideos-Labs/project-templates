@@ -1,0 +1,2 @@
+// husky configuration
+module.exports = {}
