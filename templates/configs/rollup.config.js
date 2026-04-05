@@ -1,0 +1,2 @@
+// rollup configuration
+module.exports = {}
