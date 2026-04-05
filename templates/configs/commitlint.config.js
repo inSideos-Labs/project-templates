@@ -1,0 +1,2 @@
+// commitlint configuration
+module.exports = {}
