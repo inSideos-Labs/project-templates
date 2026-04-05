@@ -1,0 +1,2 @@
+// vite configuration
+module.exports = {}
