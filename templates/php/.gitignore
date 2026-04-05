@@ -1,0 +1,4 @@
+# php ignores
+*.log
+tmp/
+.env
