@@ -1,0 +1,4 @@
+# kotlin ignores
+*.log
+tmp/
+.env
