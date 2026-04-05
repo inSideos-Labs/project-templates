@@ -1,0 +1,4 @@
+# ruby ignores
+*.log
+tmp/
+.env
