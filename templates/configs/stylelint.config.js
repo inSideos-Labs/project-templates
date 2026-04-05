@@ -1,0 +1,2 @@
+// stylelint configuration
+module.exports = {}
