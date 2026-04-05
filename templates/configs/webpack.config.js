@@ -1,0 +1,2 @@
+// webpack configuration
+module.exports = {}
