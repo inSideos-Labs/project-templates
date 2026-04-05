@@ -1,0 +1,4 @@
+# perl ignores
+*.log
+tmp/
+.env
