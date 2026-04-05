@@ -1,0 +1,4 @@
+# elixir ignores
+*.log
+tmp/
+.env
