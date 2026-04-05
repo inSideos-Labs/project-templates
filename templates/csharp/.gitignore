@@ -1,0 +1,4 @@
+# csharp ignores
+*.log
+tmp/
+.env
