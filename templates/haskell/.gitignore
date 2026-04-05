@@ -1,0 +1,4 @@
+# haskell ignores
+*.log
+tmp/
+.env
